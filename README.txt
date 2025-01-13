@@ -1,4 +1,4 @@
-## Machine Learning Models for Volleyball Gameplay Prediction
+Machine Learning Models for Volleyball Gameplay Prediction
 
 ### Overview
 This project applies machine learning to analyze volleyball gameplay dynamics. The primary goals were:
